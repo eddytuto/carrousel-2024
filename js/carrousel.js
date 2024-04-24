@@ -52,7 +52,9 @@
         // index
         // type
         // name
-        // ajouter fans carrousel__form
+        // ajouter dans carrousel__form
+        // ajouter un écouteur qui permettra de changer l'opacité de l'image « index »
+                // carrousel__figure.children[index].style.opacity = 1
     }
 
 
